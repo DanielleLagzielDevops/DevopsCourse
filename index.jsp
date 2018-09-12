@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Echoing HTML Request Parameters</title>
+  <title>DevOps Project</title>
 </head>
 <body>
 <section class="app-screen js-screen" style="clip: unset;">
